@@ -3,6 +3,7 @@
 echo please enter your name
 
 read  -s userName
+#-s is used to hide the given input from displaying 
 
 echo please enter password
 
